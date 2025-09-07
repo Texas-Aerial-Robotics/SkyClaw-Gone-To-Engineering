@@ -1,0 +1,111 @@
+material aruco/marker_0
+{
+  technique
+  {
+    pass
+    {
+      ambient 1 1 1 1
+      diffuse 1 1 1 1
+      specular 0 0 0 1 0
+      texture_unit { texture marker_0.png }
+    }
+  }
+}
+
+material aruco/marker_1
+{
+  technique
+  {
+    pass
+    {
+      ambient 1 1 1 1
+      diffuse 1 1 1 1
+      specular 0 0 0 1 0
+      texture_unit { texture marker_1.png }
+    }
+  }
+}
+
+material aruco/marker_2
+{
+  technique
+  {
+    pass
+    {
+      ambient 1 1 1 1
+      diffuse 1 1 1 1
+      specular 0 0 0 1 0
+      texture_unit { texture marker_2.png }
+    }
+  }
+}
+
+material aruco/marker_3
+{
+  technique
+  {
+    pass
+    {
+      ambient 1 1 1 1
+      diffuse 1 1 1 1
+      specular 0 0 0 1 0
+      texture_unit { texture marker_3.png }
+    }
+  }
+}
+
+material aruco/marker_4
+{
+  technique
+  {
+    pass
+    {
+      ambient 1 1 1 1
+      diffuse 1 1 1 1
+      specular 0 0 0 1 0
+      texture_unit { texture marker_4.png }
+    }
+  }
+}
+
+material aruco/marker_5
+{
+  technique
+  {
+    pass
+    {
+      ambient 1 1 1 1
+      diffuse 1 1 1 1
+      specular 0 0 0 1 0
+      texture_unit { texture marker_5.png }
+    }
+  }
+}
+
+material aruco/marker_6
+{
+  technique
+  {
+    pass
+    {
+      ambient 1 1 1 1
+      diffuse 1 1 1 1
+      specular 0 0 0 1 0
+      texture_unit { texture marker_6.png }
+    }
+  }
+}
+
+material aruco/marker_7
+{
+  technique
+  {
+    pass
+    {
+      ambient 1 1 1 1
+      diffuse 1 1 1 1
+      specular 0 0 0 1 0
+      texture_unit { texture marker_7.png }
+    }
+  }
+}
