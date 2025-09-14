@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-
+print("start")
 import asyncio
 from mavsdk import System
 
